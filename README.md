@@ -1,4 +1,4 @@
-# 🎧 Mostro EVM
+# Mostro 
 
 > Building decentralized financial infrastructure for the music industry.
 
@@ -53,5 +53,5 @@ This project is currently being developed in collaboration with **MetaDev3**.
 
 ---
 
-## 📂 Project Structure
+
 
